@@ -1,0 +1,12 @@
+mcstatus
+requests
+colorama
+fake-useragent
+mcrcon
+dnspython
+toml
+pyperclip
+PySocks
+keyboard
+mysql-connector-python
+bcrypt
