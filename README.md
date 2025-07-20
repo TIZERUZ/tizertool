@@ -14,9 +14,7 @@
 ### Setup
 
 ```bash
-git clone https://github.com/Renovsk/Banana.git && cd Banana
-pip install -r requirements.txt
-python main.py
+download with zip code ni bosing va o'rnatishdan so'ng main.py ni ishga tushiring
 ```
 
 ---
